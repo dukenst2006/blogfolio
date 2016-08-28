@@ -13,10 +13,10 @@ return [
   |
   */
   'title'           => 'Clément DOUIN',
-  'subtitle'        => "Blog / portfolio d'un développeur web freelance",
-  'description'     => 'Blog / portfolio de Clément DOUIN, développeur web freelance disponible pour tous vos projets web',
+  'subtitle'        => "Blog et portfolio d'un développeur web freelance passionné",
+  'description'     => 'Blog et portfolio de Clément DOUIN, développeur web freelance passionné, disponible pour tous vos projets web',
   'author'          => 'Clément DOUIN',
-  'seo'             => 'blog,blogging,portfolio,projets,clément douin,développeur web,freelance,laravel,mysql,nginx,git,guthub,auto-entrepreneur',
+  'seo'             => 'blog,blogging,portfolio,projets,clément douin,laravel,mysql,nginx,git,github,php,développeur web',
 
   /*
   |--------------------------------------------------------------------------
