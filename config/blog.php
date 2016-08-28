@@ -12,11 +12,11 @@ return [
   | graph tags on sites such as Facebook and Twitter.
   |
   */
-  'title'           => 'Canvas',
-  'subtitle'        => 'Minimal Blogging App',
-  'description'     => 'Blog',
-  'author'          => 'Todd Austin',
-  'seo'             => 'minimal,blogging,app',
+  'title'           => 'Clément DOUIN',
+  'subtitle'        => "Blog / portfolio d'un développeur web freelance",
+  'description'     => 'Blog / portfolio de Clément DOUIN, développeur web freelance disponible pour tous vos projets web',
+  'author'          => 'Clément DOUIN',
+  'seo'             => 'blog,blogging,portfolio,projets,clément douin,développeur web,freelance,laravel,mysql,nginx,git,guthub,auto-entrepreneur',
 
   /*
   |--------------------------------------------------------------------------
@@ -28,7 +28,7 @@ return [
   | identifier in your .env file.
   |
   */
-  'posts_per_page'  => 6,
+  'posts_per_page'  => 3,
   'disqus_name' => env('DISQUS_NAME', null),
 
   /*
