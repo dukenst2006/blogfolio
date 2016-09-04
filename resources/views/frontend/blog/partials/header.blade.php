@@ -12,11 +12,9 @@
             @if(isset($user->github) && strlen($user->github))
                 <a href="http://github.com/{{ $user->github }}" target="_blank" id="social"><i class="fa fa-fw fa-github"></i></a>
             @endif
-            -
-            <a href="{{ url("uploads", "clement_douin_CV_FR.pdf") }}" target="_blank" id="social" title="Curriculum Vitae (.pdf)">
-                <i class="fa fa-fw fa-file-pdf-o"></i>
-                CV
-            </a>
+            @if(isset($user->linkedin) && strlen($user->linkedin))
+                <a href="http://linkedin.com/in/{{ $user->linkedin }}" target="_blank" id="social"><i class="fa fa-fw fa-linkedin"></i></a>
+            @endif
         </div>
     </div>
 </div>

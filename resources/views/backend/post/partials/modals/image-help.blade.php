@@ -7,7 +7,7 @@
             </div>
             <div class="modal-body">
                 <p>To set a blog post page image, just drop in the image path relative to <code>public/uploads/</code>.</p>
-                <p><strong>For example</strong>, if you'd like to use the <em>placeholder</em> image just save <code>placeholder.png</code> in the input.</p>
+                <p><strong>For example</strong>, if you'd like to use the <em>placeholder</em> image, just save <code>placeholder.png</code> in the input.</p>
             </div>
             <div class="modal-footer">
                 <a href="" class="btn btn-link" data-dismiss="modal">Close</a>
